@@ -27,6 +27,7 @@ A full-stack MERN project that allows users to generate images using AI. Users c
 ## Project Structure
 
 ai_image_generation/
+
 ├─ client/       # React frontend
 
 ├─ server/       # Node.js backend

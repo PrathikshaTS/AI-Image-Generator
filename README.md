@@ -1,6 +1,9 @@
 # AI Image Generation
 
-A full-stack MERN project that allows users to generate images using AI. Users can upload prompts or images via the frontend, and the backend processes the requests using an AI model or API.
+ • A web application that allows users to generate AI images based on custom prompts or a “Surprise
+ Me” feature.
+ 
+ • Built a community section where users can browse, search, and download images shared by others.
 
 ---
 
@@ -18,7 +21,8 @@ A full-stack MERN project that allows users to generate images using AI. Users c
 
 - **Frontend:** React.js,tailwind css
 - **Backend:** Node.js, Express.js  
--  **Cloud Storage:** Cloudinary  
+-  **Cloud Storage:** Cloudinary
+-  **DataBase:** MongoDB
 - **AI Integration:** Rapid API 
 - **Version Control:** Git, GitHub
 

@@ -28,8 +28,11 @@ A full-stack MERN project that allows users to generate images using AI. Users c
 
 ai_image_generation/
 ├─ client/       # React frontend
+
 ├─ server/       # Node.js backend
+
 ├─ .gitignore    # To ignore node_modules, .env, etc.
+
 └─ README.md     # Project documentation
 
 ## Setup Instructions
